@@ -1,4 +1,4 @@
-# 📊 Power BI Dashboard - Job Survey Analysis
+# 📊 Power BI Dashboard - Data Professional Survey Breakdown
 
 This dashboard was built using **Microsoft Power BI** to analyze survey results from professionals working in data-related roles.  
 The visualization provides insights into demographics, salaries, job satisfaction, and preferred programming languages among data professionals worldwide.
