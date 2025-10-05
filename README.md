@@ -4,6 +4,15 @@ This dashboard was built using **Microsoft Power BI** to analyze survey results 
 
 ---
 
+## 📂 Repository Contents
+
+- **Data_Professional_Survey_Breakdown.pbix** → Power BI file containing the complete interactive dashboard and visualizations.  
+- **survey_data.csv** → Dataset collected through an online survey filled by random respondents.  
+- **dashboard-preview.png** → Image preview of the dashboard.  
+- **README.md** → Documentation describing the project, insights, and usage instructions.
+
+---
+
 ## 🎯 Project Objective
 
 The purpose of this project is to:
